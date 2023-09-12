@@ -1,0 +1,3 @@
+com.example.keycloak.protocol.oidc.mappers.ClientSessionNoteMapper
+com.example.keycloak.protocol.oidc.mappers.CustomProtocolMapper
+org.keycloak.protocol.oidc.mappers.ScriptBasedOIDCProtocolMapper
